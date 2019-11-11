@@ -1,0 +1,14 @@
+# Project Checklist
+- [x] Create project idea
+- [x] Get project idea approved
+- [x] Look and learn from similar projects
+- [x] Create repository
+- [x] Create license
+- [x] Create readme file
+- [x] Start code
+- [x] Edit/work with code to see what works and what does not
+- [x] Research ways to improve code
+- [x] Successfully run code so far
+- [ ] Improve code to make it more what I envisioned
+- [ ] Make sure code runs after revised
+- [ ] Create Powerpoint for presentation
