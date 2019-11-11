@@ -15,7 +15,7 @@ while True:
     time.sleep(2)
     print(" Prepare for the toss!")
     time.sleep(2)
-    print("Tossing.......")
+    print("Tossing......")
     flip = random.choice(choices)
     if coin == flip:
         print("You won!")
