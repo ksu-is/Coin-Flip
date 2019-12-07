@@ -9,6 +9,6 @@
 - [x] Edit/work with code to see what works and what does not
 - [x] Research ways to improve code
 - [x] Successfully run code so far
-- [ ] Improve code to make it more what I envisioned
-- [ ] Make sure code runs after revised
+- [x] Improve code to make it more what I envisioned
+- [x] Make sure code runs after revised
 - [ ] Create Powerpoint for presentation
